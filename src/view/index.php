@@ -29,10 +29,10 @@
             <div class="features-grid">
 
                 <div class="feature">
-                    <div class="feature-mark">PSGC</div>
+                    <div class="feature-mark">LOCAL</div>
                     <h3>Search anywhere in the country</h3>
                     <p>
-                        Uses PSGC location data, so you can find your
+                        Uses map coordination data, so you can find your
                         own barangay or municipality, not just the
                         nearest big city.
                     </p>
