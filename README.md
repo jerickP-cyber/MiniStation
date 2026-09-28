@@ -91,7 +91,7 @@ New features and improvements may be added as the project evolves.
 
 ## 👨‍💻 Developer
 
-Developed by **Kim Adrian Barangan**.
+Developed by **Me**.
 
 ---
 
