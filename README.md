@@ -25,7 +25,7 @@
 ### Weather Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca09cfa9-f81d-4e3e-a919-5695cc3ba4b0" alt="MiniStation Weather Dashboard" width="90%">
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8d90d124-909c-48a7-878a-d31777da17bc"  alt="MiniStation Weather Dashboard" width="90%">
 </p>
 
 ### Location & Weather View
