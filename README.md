@@ -1,7 +1,7 @@
 # MiniStation
 This web app shows the weather update 
 
-Visit: https://ms-zeta-seven.vercel.app/
+Visit: 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ca09cfa9-f81d-4e3e-a919-5695cc3ba4b0" />
 
